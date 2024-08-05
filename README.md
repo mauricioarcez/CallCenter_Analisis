@@ -4,6 +4,11 @@
 
 En este proyecto, se ha aplicado una limpieza y analisis exploratorio de los datos a travez de python para luego visualizarlo en un Dashboard integral para el Call Center con el objetivo de medir y evaluar los niveles de calidad de servicio, eficiencia y productividad. Este Dashboard está diseñado para ofrecer una visión clara y detallada del desempeño operativo de la empresa, permitiendo a los gestores identificar áreas de mejora y optimizar la experiencia del cliente.
 
+- El archivo  ```Call_Center_1999_DataSet.csv ``` Contiene el archivo CSV de donde se han obtenido los datos.
+- El archivo  ```TP Integrador-2.md ``` contiene las preguntas y objetivos del analisis.
+- El archivo  ```eda.ipynb ``` contiene la transformacion y el analisis exploratorio de los datos para entender el camino de la empresa.
+- El archivo  ```callcenter_pandas.csv ``` contiene el CSV limpio y transformado para utlizar en Power BI.
+- El archivo  ```integrador.pbix ``` contiene los dashboards de visualizaciones interactivos para los agentes operativos.
 ## Descripción de los Datos
 
 El dataset contiene información detallada sobre las llamadas, incluyendo las siguientes columnas:
