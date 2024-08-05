@@ -35,5 +35,22 @@ Hay 6 tipos diferentes de servicio:
 
 ## Preguntas Planteadas 
 
-- **¿Cuál es el nivel de servicio para los clientes Prioritarios?**  
+- **¿Cuál es el nivel de servicio para los clientes Prioritarios?**
+  El análisis de los tiempos de espera y el volumen de llamadas ha proporcionado hallazgos clave sobre el nivel de servicio para los clientes prioritarios en comparación con otros segmentos:
+
+- **Promedio de Tiempo de Espera:** El promedio general de tiempo de espera para todas las llamadas es de 59 segundos. Sin embargo, se observa una variación significativa entre los tipos de clientes:
+  - **Clientes No Identificados:** 26 segundos
+  - **Clientes Regulares:** 65 segundos
+  - **Clientes Prioritarios:** 87 segundos
+
+- **Distribución del Volumen de Llamadas:**
+  - **Clientes Prioritarios:** 30%
+  - **Clientes Regulares:** 29%
+  - **Clientes No Identificados:** 40%
+
+- **Desempeño por Cuartos:**
+  - En el primer y segundo cuarto del período analizado, el volumen de llamadas prioritarias era mayor en comparación con otros tipos de clientes, con un tiempo de espera promedio de 85 segundos, frente a 80 segundos para clientes regulares y 30 segundos para clientes no identificados.
+  - En los últimos dos cuartos, aunque el volumen de llamadas prioritarias disminuyó, el tiempo de espera para estos clientes solo se redujo ligeramente a 84 segundos. En contraste, los clientes regulares y no identificados experimentaron una notable mejora en sus tiempos de espera, con promedios reducidos a 40 segundos.
+
+Estos hallazgos sugieren que, a pesar de una disminución en el volumen de llamadas prioritarias, el tiempo de espera para estos clientes sigue siendo considerablemente alto en comparación con otros segmentos. La ligera mejora en los últimos cuartos no ha sido suficiente para igualar el nivel de servicio ofrecido a los clientes regulares y no identificados.
  
