@@ -1,4 +1,6 @@
 # "Anonymous Bank" Call-Center
+![Dashboard](dashboard-pag1.png)
+![Dashboard2](dashboard-pag2.png)
 
 ## Introducción
 
